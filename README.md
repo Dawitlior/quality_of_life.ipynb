@@ -1,1 +1,0 @@
-# quality_of_life.ipynb
